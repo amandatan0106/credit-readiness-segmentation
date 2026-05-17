@@ -32,7 +32,6 @@ credit-readiness-segmentation/
 │   ├── 02_segmentation.ipynb
 │   ├── 03_modeling.ipynb
 │   └── 04_product_framing.ipynb
-├── .gitignore
 └── README.md
 ```
 
